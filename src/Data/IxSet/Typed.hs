@@ -107,7 +107,7 @@ module Data.IxSet.Typed
     (
      -- * Set type
      IxSet(),
-     IxList(),
+     IxList(..),
      Indexable(..),
      IsIndexOf(),
      All,
