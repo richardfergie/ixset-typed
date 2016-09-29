@@ -119,6 +119,7 @@ module Data.IxSet.Typed
      MkIxList(),
      ixFun,
      ixGen,
+     mapIxList,
      -- ** TH derivation of indices
      noCalcs,
      inferIxSet,
